@@ -62,4 +62,5 @@ function draw(){
     bird.display();
     platform.display();
 }
-// batata? :(
+// batata? :)
+//batata:)
